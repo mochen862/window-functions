@@ -23,6 +23,12 @@ CREATE TABLE bookings (
 
 -- =================================
 
+-- my psql command line command
+
+-- \COPY bookings FROM 'C:/Users/moche/Downloads/AB_NYC_2019.csv' DELIMITER ',' CSV HEADER ENCODING 'utf8'
+
+-- =================================
+
 -- Window Functions with OVER
 
 -- Average price with OVER
